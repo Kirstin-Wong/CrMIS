@@ -1,0 +1,72 @@
+{
+  "id": "2000088",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1296944",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "4195870",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "4266505",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e879",
+      "unicode_decimal": 59513
+    },
+    {
+      "icon_id": "4433835",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "10577214",
+      "name": "留言",
+      "font_class": "liuyan",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "10720649",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11059194",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "13132916",
+      "name": "文物",
+      "font_class": "wenwu",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "14433886",
+      "name": "展览",
+      "font_class": "zhanlan",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
